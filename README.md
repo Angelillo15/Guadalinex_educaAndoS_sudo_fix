@@ -1,0 +1,1 @@
+# Guadalinex_educaAndoS_sudo_fix
