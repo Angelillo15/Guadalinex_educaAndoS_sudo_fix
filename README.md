@@ -1,1 +1,1 @@
-# Guadalinex_educaAndoS_sudo_fix
+# Guadalinex & educaAndOS sudo fix
